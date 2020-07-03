@@ -1,6 +1,6 @@
 # SpringCloudConfigServer
 
-
+![alt text](https://https://github.com/omarrahul/SpringCloudConfigServer/blob/master/images/springcloudconfigserver.png)
 
 1. Clone the repo and import as maven project for both range-service and spring-cloud-config-server
 2. Set up your local git repo and create properties file based on {application_name}-{label}.properties
