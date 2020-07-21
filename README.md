@@ -9,4 +9,4 @@
 5. If profile is not set then default properties are picked up
 6. We can either activate the profile in bootstrap.properties or could pass them as VM arguments while launching the application.
 
-Voila all ready to go !!
+Voila all ready to go yohoo!!
